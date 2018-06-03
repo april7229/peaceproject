@@ -1,7 +1,7 @@
 {
-  "name": "googleclone",
+  "name": "peaceproject",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "json": "^9.0.6",
     "react": "^16.4.0",
